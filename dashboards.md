@@ -1,6 +1,6 @@
 # Dashboards
 
-7 dashboards built across authentication, security, network, DNS, and lab health.
+7 dashboards built across authentication, security, network, DNS, and lab-health.
 
 | Dashboard | Data Sources | Key Panels |
 |---|---|---|
@@ -17,16 +17,16 @@
 ## Screenshots
 
 ### Auth Overview
-![Auth Overview](images/auth overview.png)
+![Auth Overview](images/auth-overview.png)
 
 ### DNS Intelligence
-![DNS Intelligence](images/dns intelligence.png)
+![DNS Intelligence](images/dns-intelligence.png)
 
 ### Lab Health
-![Lab Health](images/lab health.png)
+![Lab Health](images/lab-health.png)
 
 ### Linux Security
-![Linux Security](images/linux security.png)
+![Linux Security](images/linux-security.png)
 
 ### Network Traffic
-![Network Traffic](images/network traffic.png)
+![Network Traffic](images/network-traffic.png)
